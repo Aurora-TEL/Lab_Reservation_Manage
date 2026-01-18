@@ -3,10 +3,10 @@ package org.example.view.admin;
 import org.example.model.User;
 import org.example.view.components.HistoryPanel; // 确保你有这个类
 import org.example.view.login.LoginFrame;
-import org.example.view.admin.AuditPanel;
+/*import org.example.view.admin.AuditPanel;
 import org.example.view.admin.ClassManagePanel;
 import org.example.view.admin.LabManagePanel;
-import org.example.view.admin.UserManagePanel;
+import org.example.view.admin.UserManagePanel;*/
 
 import javax.swing.*;
 import java.awt.*;

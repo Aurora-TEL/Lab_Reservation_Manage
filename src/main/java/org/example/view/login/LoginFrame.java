@@ -62,7 +62,7 @@ public class LoginFrame extends JFrame {
                 doLogin();
             }
         });
-        // 【新增】注册事件监听
+        // 5. 注册事件监听
         regBtn.addActionListener(e -> {
             // 弹出注册对话框
             new RegisterDialog(this).setVisible(true);
